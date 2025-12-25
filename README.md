@@ -1,6 +1,6 @@
 # Maths millionaire
-### Video Demo: https://youtu.be/WAMkmm6zFkk
-### Website: https://shadowblades746.github.io/Maths-Millionaire/
+### [Video Demo](https://youtu.be/WAMkmm6zFkk)
+### [Website](https://shadowblades746.github.io/Maths-Millionaire)
 
 ### -Description-
 
